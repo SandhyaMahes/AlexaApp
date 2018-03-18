@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "AlexaApp",
+    "description": "Alexa App - TMDB",
+    "slug": "blog",
+    "privacy": "public",
+    "sdkVersion": "25.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+  
+    "packagerOpts": {
+      "assetExts": ["ttf", "mp4"]
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.gmail.sandhyamaheswaran.AlexaApp"
+    }
+  }
+}
+
