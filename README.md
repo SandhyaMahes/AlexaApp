@@ -12,7 +12,11 @@ Node and React Native must be installed. Check out https://facebook.github.io/re
 Install Native Base and React Navigation.
 
 Steps to run the AlexaApp-
+
 1.Clone the project.
+
 2.In the Command Prompt, open the project and run the commands
+
     cd AlexaApp
+    
     npm start
